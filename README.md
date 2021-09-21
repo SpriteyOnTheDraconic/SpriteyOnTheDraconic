@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpriteyOnTheDraconic
+- 👀 I’m interested in Codeing and Programming!
+- 🌱 I’m currently learning Python,Javascript C++
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me ioumih32@gmail.com
